@@ -1,1 +1,1 @@
-console.log("Sukhbir kamboj updated");
+console.log("Sukhbir kamboj");
